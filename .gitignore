@@ -1,2 +1,5 @@
 # Jupyter notebooks checkpoint
 .ipynb_checkpoints
+
+# Qodo extension for VS Code
+.qodo
