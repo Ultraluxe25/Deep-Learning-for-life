@@ -1,0 +1,6 @@
+# Ignore Sergey Dubinin PyTorch course datasets directories
+/Sergey Dubinin - PyTorch for Deep Learning/dataset/
+/Sergey Dubinin - PyTorch for Deep Learning/content/
+
+# Ignore Qodo VS Code extension
+**/.qodo
