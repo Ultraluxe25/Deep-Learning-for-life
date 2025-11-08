@@ -1,3 +1,7 @@
+# Ignore Sergey Dubinin PyTorch course datasets directories
+/Sergey Dubinin - PyTorch for Deep Learning/dataset/
+/Sergey Dubinin - PyTorch for Deep Learning/content/
+
 # Jupyter notebooks checkpoint
 .ipynb_checkpoints
 
