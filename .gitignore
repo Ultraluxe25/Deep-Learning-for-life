@@ -2,5 +2,8 @@
 /Sergey Dubinin - PyTorch for Deep Learning/dataset/
 /Sergey Dubinin - PyTorch for Deep Learning/content/
 
-# Ignore Qodo VS Code extension
-**/.qodo
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints
+
+# Qodo extension for VS Code
+.qodo
