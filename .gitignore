@@ -7,3 +7,9 @@
 
 # Qodo extension for VS Code
 .qodo
+
+# Datasets
+**/datasets/**
+
+# YOLO runs (model trainings)
+**/runs/**
